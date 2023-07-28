@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VelocityX0
-- 👀 I’m interested in coding, web deveolpment 
+- 👀 I’m interested in coding, web deveolpment and app development
 - 🌱 I’m currently learning java
 - 💞️ to reach me text on
 - 📫
